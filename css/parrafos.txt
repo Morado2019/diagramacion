@@ -1,0 +1,53 @@
+------------- CARDS -------------
+
+Nissan GTR-34
+
+Un modelo de automóvil japonés que se ha producido 
+en distintas versiones ininterrumpidamente desde 1957.
+
+https://es.wikipedia.org/wiki/Nissan_Skyline
+
+---------------------------
+
+Honda NSX
+
+El Honda NSX, es un automóvil deportivo de dos puertas biplaza con motor central-trasero, 
+producido por fabricante japonés Honda Motor.
+
+https://es.wikipedia.org/wiki/Honda_NSX
+
+---------------------------
+
+Subaru Impreza WRX
+
+El Subaru Impreza es un automóvil de turismo del segmento C producido
+por el fabricante japonés Subaru desde el año 1992.
+
+https://es.wikipedia.org/wiki/Subaru_Impreza
+
+---------------------------
+
+Mitsubishi Evolution 
+
+Es un automóvil de turismo sedán del segmento C producido por el
+fabricante japonés Mitsubishi desde 1992 hasta 2016.
+
+https://es.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution
+
+---------------------------
+
+Honda Civic Type-R
+
+Es el modelo más radical del Honda Civic fabricado por Honda Motor
+Company. Cuenta con una carrocería más ligera y rígida.
+
+https://es.wikipedia.org/wiki/Honda_Civic_Type-R
+
+---------------------------
+
+Mazda RX-7
+
+Es un automóvil deportivo producido por el fabricante japonés Mazda
+Motor Corporation entre los años 1978 y 2002.
+
+https://es.wikipedia.org/wiki/Mazda_RX-7
